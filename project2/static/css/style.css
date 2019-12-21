@@ -1,0 +1,25 @@
+.jumbotron{
+    height: 20rem;
+    background-image: url("../images/image_1.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    color: rgb(233, 223, 210);
+    font-size: 4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(53, 36, 36);
+}
+nav {
+    background-color: rgb(233, 223, 210);
+}
+.nav-link{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(53, 36, 36); 
+}
+body {
+    background-color: rgba(85, 72, 72, 0.849);
+}
